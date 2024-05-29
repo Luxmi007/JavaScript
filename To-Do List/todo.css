@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(243, 229, 107);
+}
+section{
+    margin-left:40%;
+    margin-top: 80px;
+justify-content: center;}
+
+#add-item{
+    font-size: larger;
+    border-radius: 12px;
+    padding: 12px 12px;
+    box-sizing: border-box;}
+
+    #update-item{
+        font-size: larger;
+        border-radius: 12px;
+        padding: 12px 12px;
+        box-sizing: border-box;
+    }
+
+    #remove-item{
+        font-size: larger;
+        border-radius: 12px;
+        padding: 12px 12px;
+        box-sizing: border-box;
+    }
+
+#todo-input{
+    font-size: 24px;
+    border: 2px solid rgb(248, 148, 148);
+}
+h1{
+    font-size: 55px;
+    text-align: center;
+}
+#todo-input{
+    border-radius: 12px;
+    padding: 8px 8px;
+    margin: 8px;
+}
