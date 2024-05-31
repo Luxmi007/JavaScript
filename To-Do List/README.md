@@ -9,5 +9,7 @@ Features:
 Technologies Used:
 
 HTML
+
 CSS (Flexbox, Styling)
+
 JavaScript (Local storage, Event handling)
